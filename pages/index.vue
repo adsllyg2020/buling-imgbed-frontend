@@ -2,7 +2,7 @@
   <div class="home">
     <div class="hero">
       <div class="hero-content">
-        <h1 class="gradient-title">✨欢迎使用我们图床</h1>
+        <h1 class="gradient-title">✨欢迎使用我的图床</h1>
         <p class="subtitle">基于互联网的个人图床新选择</p>
         <div class="action-buttons">
           </a>
